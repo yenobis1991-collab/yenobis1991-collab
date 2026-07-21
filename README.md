@@ -15,7 +15,7 @@ Soy desarrolladora Full Stack apasionada por crear aplicaciones web modernas. Me
 
 ## 🌟 Proyecto Destacado
 
-### MindFed
+## 🌐 MindFed
 
 Plataforma Full Stack inspirada en una red social de comunidades donde los usuarios pueden:
 
