@@ -8,27 +8,10 @@ Soy desarrolladora Full Stack apasionada por crear aplicaciones web modernas. Me
 
 ## 🚀 Tecnologías
 
-### Frontend
-- React
-- JavaScript 
-- HTML5
-- CSS
-- Bootstrap
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,python,flask,postgres,git,github,vscode,postman" />
+</p>
 
-### Backend
-- Python
-- Flask
-- SQLAlchemy
-- PostgreSQL
-- JWT
-
-### Herramientas
-- Git
-- GitHub
-- Postman
-- Cloudinary
-
----
 
 ## 🌟 Proyecto Destacado
 
@@ -65,4 +48,17 @@ React • Flask • PostgreSQL • SQLAlchemy • JWT • Cloudinary
 💼 LinkedIn: linkedin.com/in/genesis-moreno-ávila   
 
 📧 Email:
-yenobis1991@gmail.com
+yenobis1991@gmail.com 
+
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yenobis1991-collab&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenobis1991-collab&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
