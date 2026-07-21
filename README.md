@@ -9,7 +9,7 @@ Soy desarrolladora Full Stack apasionada por crear aplicaciones web modernas. Me
 ## 🚀 Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,python,flask,postgres,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,python,flask,postgres,github,vscode,postman" />
 </p>
 
 
