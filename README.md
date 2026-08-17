@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Génesis Moreno de Terán</h1>
+<h1 align="center">Hola 👋, soy Génesis Moreno</h1>
 
 <h3 align="center">Desarrolladora Frontend | React | JavaScript | Full Stack en desarrollo</h3>
 
